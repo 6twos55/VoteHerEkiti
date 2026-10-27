@@ -35,3 +35,6 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
+# documentation (keep local only on public repo)
+/docs/
+docs/
